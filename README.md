@@ -1,9 +1,8 @@
 # Calendario y Festivos Colombia (LARAVEL)
+AGRADECIMIENTOS:
+
 > [![Raul Mauricio Uñate Castro](https://storage.googleapis.com/lola-web/storage_apls/RecursosCompartidos/LogoGithubLibrerias.png)](#)
 
-Control fácil del calendario de Colombia, control de festivos, fechas, rangos y manejo de días.
-Es una versión destinada netamente al control de las fechas de Colombia, esta clase al igual que la clase Carbon, se hereda de metodos y clases originales de PHP DateTime::class(). 
-Esta es una versión totalmente libre y se busca que en comunidad se mejore y se brinde mejores métodos y opciones para los programadores que deciden usarla.
 
 ## Características
 - Los años actualmente disponibles son del 2000 al 2034, estos se actualizan constantemente garantizando minimo 10 años a futuro, el año mas antiguo disponible en esta y en proximas versiones siempre será 2000.
