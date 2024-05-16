@@ -21,7 +21,7 @@ Esta es una versión totalmente libre y se busca que en comunidad se mejore y se
 ## _Instalación a través de Composer_
 
 ```console
-composer require rmunate/calendario-colombia v2.0.x-dev
+composer require aveonline/calendario-colombia
 ```
 
 ## Metodos
@@ -140,7 +140,7 @@ Código Migración Laravel
 
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
-use Rmunate\Calendario\CalendarioColombia;
+use Aveonline\CalendarioColombia\CalendarioColombia;
 use Illuminate\Database\Migrations\Migration;
 
 return new class extends Migration
@@ -165,7 +165,7 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
-use Rmunate\Calendario\CalendarioColombia;
+use Aveonline\CalendarioColombia\CalendarioColombia;
 
 class ColombianCalendarSeeder extends Seeder
 {
