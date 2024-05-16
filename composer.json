@@ -1,6 +1,6 @@
 {
     "name": "aveonline/calendario-colombia",
-    "description": "libreria para suplir la necesidad de tener festivos colombianos porque el carechimba de rmunate puso el repositorio privado",
+    "description": "libreria para suplir la necesidad de tener festivos colombianos porque el carechimba puso el repositorio privado",
     "type": "library",
     "require": {
         "php": ">=7.4"
