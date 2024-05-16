@@ -1,6 +1,6 @@
 <?php 
 
-namespace Rmunate\Calendario;
+namespace Aveonline\CalendarioColombia;
 
 class Holidays
 {

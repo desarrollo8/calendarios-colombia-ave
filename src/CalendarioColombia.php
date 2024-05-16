@@ -1,9 +1,9 @@
 <?php
 
-namespace Rmunate\Calendario;
+namespace Aveonline\CalendarioColombia;
 
 use DateTime;
-use Rmunate\Calendario\Holidays;
+use Aveonline\CalendarioColombia\Holidays;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
