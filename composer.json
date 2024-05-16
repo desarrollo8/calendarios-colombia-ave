@@ -1,20 +1,19 @@
 {
-    "name": "ave/calendarios-colombia",
+    "name": "aveonline/calendario-colombia",
     "description": "libreria para suplir la necesidad de tener festivos colombianos porque el carechimba de rmunate puso el repositorio privado",
     "type": "library",
     "require": {
-        "nesbot/carbon": "latest",
-        "torreswil/carbon-colombia": "lastest"
+        "php": ">=7.4"
     },
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ave\\CalendariosColombia\\": "src/"
+            "Aveonline\\CalendarioColombia\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "AveGroup Sas"
+            "name": "desarrollo8"
         }
     ],
     "minimum-stability": "stable"
